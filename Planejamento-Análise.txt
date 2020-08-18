@@ -1,0 +1,1 @@
+Aplicativo deverá calcular o valor do trajeto assim que o usuario solicitar uma corrida e se ao final o valor do calculo for acima de 10 dolares o aplicativo devolve como resposta valor ultrapassou limite e caso o valor seja de 10 dolares ou menos encaminha um veiculo a localização do passageiro para realizar a corrida.
